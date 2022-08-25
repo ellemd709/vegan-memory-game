@@ -6,7 +6,8 @@ body {
     justify-content: center;
     height: 100%;
     width: 100%;
-        background:linear-gradient(94.5deg, rgb(255, 235, 104) -1.2%, rgb(61, 247, 255) 119.2%);}
+        background:linear-gradient(110.1deg, rgb(34, 126, 34) 2.9%, rgb(168, 251, 60) 90.3%);
+    }
 
 h1,
 h2,
@@ -41,7 +42,7 @@ button {
 
 .board {
     padding: 16px;
-    grid-template-columns: repeat(10, auto);
+    grid-template-columns: repeat(5, auto);
     display:grid;
     grid-gap:16px;
 }
