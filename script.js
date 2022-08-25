@@ -85,7 +85,7 @@ const selectors = {
   
   // generate board
   function generateGame() {
-    state.picks = ["card 1", "card 2", "card 3", "card 4", "card 5", "card 6", "card 7", "card 8", "card 9", "card 10", "card 11", "card 12"];
+    state.picks = ["card 1", "card 2", "card 3", "card 4", "card 5", "card 6", "card 7", "card 8", "card 9", "card 10", "card 11", "card 12","card 13", "card 14", "card 15", "card 16", "card 17", "card 18", "card 19", "card 20"];
     const items = shuffle([...state.picks]);
     
     // loop through the cards and add an inline image for the card-back
@@ -109,7 +109,7 @@ const selectors = {
     if (state.flippedCards === 2) {
       const flippedCards = document.querySelectorAll(".flipped:not(.matched)");
   
-      // if the card-back background-images are the same on flipped cards, we add a class matched
+      // if the card-back background-images are the same on flipped cards,  I add a class matched
       if (flippedCards[0].innerHTML === flippedCards[1].innerHTML) {
         flippedCards[0].classList.add("matched");
         flippedCards[1].classList.add("matched");
