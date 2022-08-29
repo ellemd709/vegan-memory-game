@@ -2,7 +2,7 @@
 This project is based on the children’s card game, where the player tries to match pairs of cards that are flipped over. The player is shown how many moves they use and a timer to determin how long to complete the game.
 
 # Board Game 
-![alt text](/images/home screen.jpeg)
+![alt text](/images/homescreen.png)
 
 
 
