@@ -12,4 +12,14 @@ Learning from Gillian was a great experience and I found her helpful and always 
 Javascript challenged me in many ways to think outside the box. She mentioned I should make the game larger, as a way to keep working on my JavaScript.
 I enjoyed putting this project together, seeing the final result and showing my family and friends.
 
+# How To Play
 
+- Click start button OR click a card to begin
+- Click another card and determin if  a match is made
+- If two selected cards are a match; card matches stay visible; if not a match flip back and click another card
+- Once all matches are found; win board is shown with a win board with time and moves and a replay button
+
+# Win Board
+ ![alt text](/images/win.png)
+
+ 
