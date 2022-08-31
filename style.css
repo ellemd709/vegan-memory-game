@@ -38,6 +38,8 @@ button {
 .stats {
     color: #fff;
     font-size: 14pt;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .board {
