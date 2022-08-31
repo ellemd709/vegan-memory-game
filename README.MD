@@ -44,3 +44,10 @@ I decided to honour Pride month in our province (June) with a Pride theme.
 This project is based on the children’s card game, where the player tries to match pairs of cards that are flipped over. The player is shown how many moves they use and a timer to determin how long to complete the game. 
 If the player successfully matches all of the cards, a “win” message is displayed with how many moves and how long you took to win! 
 
+# Built With
+- HTML
+- CSS
+- JavaScript
+
+# Link to Demo Site
+https://ellemd709.github.io/vegan-memory-game/
