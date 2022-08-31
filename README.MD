@@ -51,3 +51,6 @@ If the player successfully matches all of the cards, a “win” message is disp
 
 # Link to Demo Site
 https://ellemd709.github.io/vegan-memory-game/
+
+# Game Started
+![alt text](/images/gameplay.png)
